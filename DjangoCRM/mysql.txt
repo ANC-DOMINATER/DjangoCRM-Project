@@ -1,0 +1,14 @@
+mysql
+root user:-domi
+pass:-1234
+
+django superuser
+id :-dominator
+email id :-admin@dominator.com
+pass:- 1234567
+
+
+other user:
+id:-noob
+password:-1234567@noob
+email:- noob@gmail.com
